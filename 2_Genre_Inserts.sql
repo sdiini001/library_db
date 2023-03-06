@@ -1,4 +1,4 @@
-use library;
+use library_second;
 
 insert into genre(name)
 values ('Fiction'), ('Non-fiction'),('Science fiction');

@@ -1,4 +1,4 @@
-use library;
+use library_second;
 
 insert into author(firstname, lastname)
 values ('J.K.', 'Rowling'), 
